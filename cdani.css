@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #040a03c8;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+    background-color: #196383c8;
+    border-color:   #09ff00;;
+}
+th, td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    border-color:   #09ff00;;
+}
+th{
+    background-color: #68c464c8;
+    border-color:   #09ff00;;
+}
